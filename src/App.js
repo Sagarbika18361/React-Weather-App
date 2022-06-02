@@ -78,13 +78,6 @@ function App() {
     </>
   );
 }
-{
-  /* 
 
-  my api key
-da2a1c0ce64968140189311cc36760b0
-
- */
-}
 
 export default App;
